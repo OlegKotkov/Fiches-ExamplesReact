@@ -1,0 +1,12 @@
+.info {
+  border: 2px solid grey;
+  border-radius: 10px;
+
+  padding: 10px;
+  max-width: 40%;
+  margin: 20 px auto;
+}
+
+.myOtherButton {
+  background-color: coral;
+}
